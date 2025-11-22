@@ -44,9 +44,10 @@ builder.Services.AddCors(options =>
 
 });
 
+string connStr = builder.Configuration.GetConnectionString("Remotedb")
+    ?? throw new Exception("No Connection String found.");
 
-
-builder.Services.AddDbContext<SongDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddDbContext<SongDbContext>(options => options.UseSqlServer(connStr));
 
 
 builder.Services.AddIdentity<User,IdentityRole>(options =>
@@ -121,9 +122,7 @@ builder.Services.AddSwaggerGen(options =>
 });
 
 var app = builder.Build();
-var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
-app.Urls.Add("http://0.0.0.0:5000");
-//app.Urls.Add("https://0.0.0.0:5001");
+
 using (var scope = app.Services.CreateScope())
 {
 
@@ -144,7 +143,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.UseMiddleware<MiddlewareErrorHandler>();
-//app.UseHttpsRedirection();
+app.UseHttpsRedirection();
 app.UseCors("AllowFrontend");
 app.UseAuthentication();
 app.UseAuthorization();
