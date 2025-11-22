@@ -259,7 +259,8 @@
               "RelativeToolTip": "BusinessLogic\\Validators\\CreateItemDtoVal.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T17:33:51.928Z"
+              "WhenOpened": "2025-10-10T17:33:51.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -269,7 +270,7 @@
               "RelativeDocumentMoniker": "IDK_Api\\Program.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Program.cs",
               "RelativeToolTip": "IDK_Api\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwDUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T21:25:06.543Z",
               "EditorCaption": ""
@@ -284,7 +285,8 @@
               "RelativeToolTip": "IDK_Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-02T20:48:55.58Z"
+              "WhenOpened": "2025-10-02T20:48:55.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -296,7 +298,8 @@
               "RelativeToolTip": "DataAccess\\Data\\SongDbContext.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T09:08:07.705Z"
+              "WhenOpened": "2025-10-04T09:08:07.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -308,7 +311,8 @@
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\db92f99c-e2d6-4d18-80cf-e789562c9bf8\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAADzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-30T21:39:15.546Z"
+              "WhenOpened": "2025-09-30T21:39:15.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -320,7 +324,8 @@
               "RelativeToolTip": "IDK_Api\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-02T20:49:01.196Z"
+              "WhenOpened": "2025-10-02T20:49:01.196Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -358,7 +363,8 @@
               "RelativeToolTip": "BusinessLogic\\Services\\ItemsService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T08:40:55.453Z"
+              "WhenOpened": "2025-10-11T08:40:55.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -370,7 +376,8 @@
               "RelativeToolTip": "IDK_Api\\Controllers\\ItemsController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAswCcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T15:22:20.504Z"
+              "WhenOpened": "2025-10-10T15:22:20.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -382,7 +389,8 @@
               "RelativeToolTip": "BusinessLogic\\Services\\HomeworkService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T10:58:20.533Z"
+              "WhenOpened": "2025-10-11T10:58:20.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -394,7 +402,8 @@
               "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
               "ViewState": "AgIAAMoAAAAAAAAAAAAjwNkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-11T23:17:28.014Z"
+              "WhenOpened": "2025-11-11T23:17:28.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -406,7 +415,8 @@
               "RelativeToolTip": "IDK_Api\\Controllers\\HomeworkController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAswCYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T15:14:54.926Z"
+              "WhenOpened": "2025-10-10T15:14:54.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -418,7 +428,8 @@
               "RelativeToolTip": "IDK_Api\\IDK_Api.csproj",
               "ViewState": "AgIAAAEAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-03T11:40:32.099Z"
+              "WhenOpened": "2025-10-03T11:40:32.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -430,7 +441,8 @@
               "RelativeToolTip": "BusinessLogic\\Configuration\\MapperProfile.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T11:44:08.185Z"
+              "WhenOpened": "2025-10-03T11:44:08.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -440,9 +452,10 @@
               "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IHomeworkService.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IHomeworkService.cs",
               "RelativeToolTip": "BusinessLogic\\Interface\\IHomeworkService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T10:58:01.857Z"
+              "WhenOpened": "2025-10-11T10:58:01.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -452,9 +465,10 @@
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251019163848_NewDb.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251019163848_NewDb.cs",
               "RelativeToolTip": "DataAccess\\Migrations\\20251019163848_NewDb.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T16:38:48.192Z"
+              "WhenOpened": "2025-10-19T16:38:48.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -464,9 +478,10 @@
               "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\HomeWorkItemDto.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\HomeWorkItemDto.cs",
               "RelativeToolTip": "BusinessLogic\\DTOs\\HomeWorkItemDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T09:07:18.612Z"
+              "WhenOpened": "2025-10-04T09:07:18.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -478,7 +493,8 @@
               "RelativeToolTip": "BusinessLogic\\Services\\BaseService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAcwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T15:15:18.264Z"
+              "WhenOpened": "2025-10-11T15:15:18.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -490,7 +506,8 @@
               "RelativeToolTip": "BusinessLogic\\Interface\\IBaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T15:15:10.862Z"
+              "WhenOpened": "2025-10-11T15:15:10.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -502,7 +519,8 @@
               "RelativeToolTip": "BusinessLogic\\Interface\\IItemsInterface.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T08:41:25.607Z"
+              "WhenOpened": "2025-10-11T08:41:25.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -514,7 +532,8 @@
               "RelativeToolTip": "DataAccess\\Data\\Entities\\Item.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:11:16.961Z"
+              "WhenOpened": "2025-09-30T21:11:16.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -524,9 +543,10 @@
               "RelativeDocumentMoniker": "DataAccess\\Data\\Entities\\ItemWeekDay.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\ItemWeekDay.cs",
               "RelativeToolTip": "DataAccess\\Data\\Entities\\ItemWeekDay.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T20:03:35.846Z"
+              "WhenOpened": "2025-10-02T20:03:35.846Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -538,7 +558,8 @@
               "RelativeToolTip": "IDK_Api\\Controllers\\BaseController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAwDEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:00:57.991Z"
+              "WhenOpened": "2025-09-29T17:00:57.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -550,7 +571,8 @@
               "RelativeToolTip": "IDK_Api\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:24:15.615Z"
+              "WhenOpened": "2025-10-13T12:24:15.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -562,7 +584,8 @@
               "RelativeToolTip": "BusinessLogic\\Services\\AccountService.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAUwFQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:26:22.406Z"
+              "WhenOpened": "2025-10-13T12:26:22.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -574,7 +597,8 @@
               "RelativeToolTip": "BusinessLogic\\DTOs\\HomeWorkItemCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:33:03.515Z"
+              "WhenOpened": "2025-10-17T16:33:03.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -586,7 +610,8 @@
               "RelativeToolTip": "BusinessLogic\\DTOs\\ItemWeekDayDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T12:44:38.07Z"
+              "WhenOpened": "2025-10-03T12:44:38.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -598,7 +623,8 @@
               "RelativeToolTip": "BusinessLogic\\DTOs\\ItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T12:49:18.163Z"
+              "WhenOpened": "2025-10-03T12:49:18.163Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -610,7 +636,8 @@
               "RelativeToolTip": "BusinessLogic\\DTOs\\Account\\LoginModelResponse.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T14:25:01.076Z"
+              "WhenOpened": "2025-10-13T14:25:01.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -622,7 +649,8 @@
               "RelativeToolTip": "BusinessLogic\\DTOs\\Account\\LogoutModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:29:44.328Z"
+              "WhenOpened": "2025-10-13T12:29:44.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -634,7 +662,8 @@
               "RelativeToolTip": "BusinessLogic\\Services\\JwtService.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAtwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T13:56:03.346Z"
+              "WhenOpened": "2025-10-13T13:56:03.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -646,7 +675,8 @@
               "RelativeToolTip": "BusinessLogic\\Interface\\IAccountService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAqwAwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:26:52.524Z"
+              "WhenOpened": "2025-10-13T12:26:52.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -658,7 +688,8 @@
               "RelativeToolTip": "IDK_Api\\Helpers\\IdentityInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T17:08:37.252Z"
+              "WhenOpened": "2025-10-16T17:08:37.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -668,9 +699,10 @@
               "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IJwtService.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IJwtService.cs",
               "RelativeToolTip": "BusinessLogic\\Interface\\IJwtService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T13:56:47.4Z"
+              "WhenOpened": "2025-10-13T13:56:47.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -680,9 +712,10 @@
               "RelativeDocumentMoniker": "DataAccess\\Data\\Entities\\RefreshToken.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\RefreshToken.cs",
               "RelativeToolTip": "DataAccess\\Data\\Entities\\RefreshToken.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T16:05:48.501Z"
+              "WhenOpened": "2025-10-16T16:05:48.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -694,7 +727,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251016163331_AddRef.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T16:33:31.544Z"
+              "WhenOpened": "2025-10-16T16:33:31.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -704,9 +738,10 @@
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251016161316_RefreshTokenCr.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251016161316_RefreshTokenCr.cs",
               "RelativeToolTip": "DataAccess\\Migrations\\20251016161316_RefreshTokenCr.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T16:13:17.07Z"
+              "WhenOpened": "2025-10-16T16:13:17.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -718,7 +753,8 @@
               "RelativeToolTip": "DataAccess\\Data\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T20:18:10.046Z"
+              "WhenOpened": "2025-10-12T20:18:10.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -730,7 +766,8 @@
               "RelativeToolTip": "DataAccess\\Data\\Entities\\WeekDay.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:14:08.141Z"
+              "WhenOpened": "2025-09-30T21:14:08.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -742,7 +779,8 @@
               "RelativeToolTip": "BusinessLogic\\DTOs\\Account\\RegisterModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:29:44.692Z"
+              "WhenOpened": "2025-10-13T12:29:44.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -754,7 +792,8 @@
               "RelativeToolTip": "DataAccess\\Data\\Entities\\HomeWorkItem.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:10:10.892Z"
+              "WhenOpened": "2025-09-30T21:10:10.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -766,7 +805,8 @@
               "RelativeToolTip": "BusinessLogic\\DTOs\\Account\\LoginModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:29:33.622Z"
+              "WhenOpened": "2025-10-13T12:29:33.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -776,9 +816,10 @@
               "RelativeDocumentMoniker": "BusinessLogic\\DException\\HttpException.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DException\\HttpException.cs",
               "RelativeToolTip": "BusinessLogic\\DException\\HttpException.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T11:52:03.148Z"
+              "WhenOpened": "2025-10-11T11:52:03.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -790,7 +831,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251013124114_Ad23dgf.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:41:15.061Z"
+              "WhenOpened": "2025-10-13T12:41:15.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -802,7 +844,8 @@
               "RelativeToolTip": "BusinessLogic\\DTOs\\WeekDayDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T14:43:26.284Z"
+              "WhenOpened": "2025-10-03T14:43:26.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -814,7 +857,8 @@
               "RelativeToolTip": "DataAccess\\DataAccess.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-12T20:16:47.794Z"
+              "WhenOpened": "2025-10-12T20:16:47.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -826,7 +870,8 @@
               "RelativeToolTip": "BusinessLogic\\DTOs\\CreateItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T09:17:37.114Z"
+              "WhenOpened": "2025-10-11T09:17:37.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -838,7 +883,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251012135821_Maskf23.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:58:21.692Z"
+              "WhenOpened": "2025-10-12T13:58:21.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -850,7 +896,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251012133757_boolMig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:37:58.062Z"
+              "WhenOpened": "2025-10-12T13:37:58.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -862,7 +909,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251003125007_UpdatDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T12:50:08.122Z"
+              "WhenOpened": "2025-10-03T12:50:08.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -883,7 +931,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251002202357_Addpwe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T20:23:57.92Z"
+              "WhenOpened": "2025-10-02T20:23:57.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -895,7 +944,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251002202305_AddBd.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T20:23:05.304Z"
+              "WhenOpened": "2025-10-02T20:23:05.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -907,7 +957,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251002201939_Updare.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T20:19:39.148Z"
+              "WhenOpened": "2025-10-02T20:19:39.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -919,7 +970,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251002201615_Update-Data.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T20:16:15.425Z"
+              "WhenOpened": "2025-10-02T20:16:15.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -931,7 +983,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251002201508_GetItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T20:15:08.453Z"
+              "WhenOpened": "2025-10-02T20:15:08.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -943,7 +996,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20251002194728_Mtmg.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:47:28.993Z"
+              "WhenOpened": "2025-10-02T19:47:28.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -955,7 +1009,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20250930214026_InitDatabase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:40:26.442Z"
+              "WhenOpened": "2025-09-30T21:40:26.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -967,7 +1022,8 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20250930215325_NextData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:53:25.185Z"
+              "WhenOpened": "2025-09-30T21:53:25.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
