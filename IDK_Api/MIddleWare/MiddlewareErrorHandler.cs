@@ -23,7 +23,7 @@ namespace IDK_Api.MIddleWare
                 Console.WriteLine("==== ERROR ====");
                 Console.WriteLine(ex.ToString());     
                 Console.WriteLine("===============");
-                await SendResponse(context, ex.Message, ex.StatusCode);
+                await SendResponse(context, ex.ToString(), ex.StatusCode);
             }
             catch (Exception ex)
             {
