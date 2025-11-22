@@ -20,14 +20,17 @@ namespace IDK_Api.MIddleWare
             }
             catch (HttpException ex)
             {
-                SendResponse(context, ex.Message, ex.StatusCode);
+                await SendResponse(context, ex.Message, ex.StatusCode);
             }
             catch (Exception ex)
             {
-                SendResponse(context, ex.Message);
+                Console.WriteLine("==== ERROR ====");
+                Console.WriteLine(ex.ToString());     
+                Console.WriteLine("===============");
+                await SendResponse(context, ex.Message);
             }
         }
-        private async void SendResponse(HttpContext context, string msg, HttpStatusCode code = HttpStatusCode.InternalServerError)
+        private async Task SendResponse(HttpContext context, string msg, HttpStatusCode code = HttpStatusCode.InternalServerError)
         {
             context.Response.StatusCode = (int)code;
             await context.Response.WriteAsJsonAsync(new ProblemDetails

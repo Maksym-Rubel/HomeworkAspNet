@@ -6,6 +6,10 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maksym\\AppData\\Roaming\\Microsoft\\UserSecrets\\db92f99c-e2d6-4d18-80cf-e789562c9bf8\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,10 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\idk_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\idk_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\services\\itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -247,23 +247,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HomeworkService.cs",
-              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\HomeworkService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Services\\HomeworkService.cs",
-              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\HomeworkService.cs",
-              "RelativeToolTip": "BusinessLogic\\Services\\HomeworkService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T10:58:20.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ItemsController.cs",
               "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Controllers\\ItemsController.cs",
               "RelativeDocumentMoniker": "IDK_Api\\Controllers\\ItemsController.cs",
@@ -299,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Program.cs",
               "RelativeDocumentMoniker": "IDK_Api\\Program.cs",
@@ -307,12 +295,11 @@
               "RelativeToolTip": "IDK_Api\\Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:25:06.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T21:25:06.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\appsettings.json",
               "RelativeDocumentMoniker": "IDK_Api\\appsettings.json",
@@ -320,12 +307,11 @@
               "RelativeToolTip": "IDK_Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-02T20:48:55.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T20:48:55.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SongDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\SongDbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\Data\\SongDbContext.cs",
@@ -333,8 +319,7 @@
               "RelativeToolTip": "DataAccess\\Data\\SongDbContext.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T09:08:07.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-04T09:08:07.705Z"
             },
             {
               "$type": "Document",
@@ -351,6 +336,35 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IDK_Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IDK_Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T20:49:01.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeworkService.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\HomeworkService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\HomeworkService.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\HomeworkService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\HomeworkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:58:20.533Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Container.targets",
               "DocumentMoniker": "C:\\Users\\Maksym\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
@@ -364,18 +378,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IDK_Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IDK_Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-02T20:49:01.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "IDK_Api.http",
               "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\IDK_Api.http",
               "RelativeDocumentMoniker": "IDK_Api\\IDK_Api.http",
@@ -386,12 +388,8 @@
               "WhenOpened": "2025-10-03T16:14:19.593Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeworkController.cs",
               "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Controllers\\HomeworkController.cs",
               "RelativeDocumentMoniker": "IDK_Api\\Controllers\\HomeworkController.cs",
