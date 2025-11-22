@@ -1,0 +1,986 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\controllers\\homeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\controllers\\homeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\services\\homeworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\homeworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\idk_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\idk_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\services\\itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maksym\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\idk_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\idk_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251019163848_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251019163848_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\data\\songdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\songdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\validators\\createitemdtoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\validators\\createitemdtoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\interface\\ihomeworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\ihomeworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dtos\\homeworkitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\homeworkitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\interface\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\interface\\iitemsinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\iitemsinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\data\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\data\\entities\\itemweekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\entities\\itemweekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dtos\\homeworkitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\homeworkitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dtos\\itemweekdaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\itemweekdaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dtos\\account\\loginmodelresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\account\\loginmodelresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dtos\\account\\logoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\account\\logoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\interface\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\helpers\\identityinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\helpers\\identityinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\interface\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interface\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\data\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\middleware\\middlewareerrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\middleware\\middlewareerrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\data\\entities\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\entities\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dtos\\account\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\account\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\data\\entities\\homeworkitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\entities\\homeworkitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dtos\\account\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\account\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dexception\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dexception\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dtos\\weekdaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\weekdaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\businesslogic\\dtos\\createitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97C067-515E-4776-98CC-0BB8E02B1704}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\createitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MYWORKITSTEP\\IDK_Api\\DataAccess\\Migrations\\20251003125119_UpdateDay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maksym\\AppData\\Roaming\\Microsoft\\UserSecrets\\db92f99c-e2d6-4d18-80cf-e789562c9bf8\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251003125007_updatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251003125007_updatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251002202357_addpwe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251002202357_addpwe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251002202305_addbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251002202305_addbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251002201939_updare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251002201939_updare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251002201615_update-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251002201615_update-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251002201508_getitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251002201508_getitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251002194728_mtmg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251002194728_mtmg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20250930214026_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250930214026_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20250930215325_nextdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250930215325_nextdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251012135821_maskf23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251012135821_maskf23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251012133757_boolmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251012133757_boolmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251013124114_ad23dgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251013124114_ad23dgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251016163331_addref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251016163331_addref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\dataaccess\\migrations\\20251016161316_refreshtokencr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6C0A39-DC81-4582-B0F2-82AD18B3D6DF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20251016161316_refreshtokencr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDK_Api.http",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\IDK_Api.http",
+              "RelativeDocumentMoniker": "IDK_Api\\IDK_Api.http",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\IDK_Api.http",
+              "RelativeToolTip": "IDK_Api\\IDK_Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-03T16:14:19.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IDK_Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IDK_Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T20:49:01.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\Maksym\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\Maksym\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAjwNkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-11T23:17:28.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeworkService.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\HomeworkService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\HomeworkService.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\HomeworkService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\HomeworkService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv04AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:58:20.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "IDK_Api\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "IDK_Api\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:22:20.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\ItemsService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\ItemsService.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\ItemsService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\ItemsService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T08:40:55.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateItemDtoVal.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Validators\\CreateItemDtoVal.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Validators\\CreateItemDtoVal.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Validators\\CreateItemDtoVal.cs",
+              "RelativeToolTip": "BusinessLogic\\Validators\\CreateItemDtoVal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:33:51.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Program.cs",
+              "RelativeDocumentMoniker": "IDK_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Program.cs",
+              "RelativeToolTip": "IDK_Api\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:25:06.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "IDK_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\appsettings.json",
+              "RelativeToolTip": "IDK_Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T20:48:55.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeworkController.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Controllers\\HomeworkController.cs",
+              "RelativeDocumentMoniker": "IDK_Api\\Controllers\\HomeworkController.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Controllers\\HomeworkController.cs",
+              "RelativeToolTip": "IDK_Api\\Controllers\\HomeworkController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:14:54.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDK_Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\IDK_Api.csproj",
+              "RelativeDocumentMoniker": "IDK_Api\\IDK_Api.csproj",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\IDK_Api.csproj",
+              "RelativeToolTip": "IDK_Api\\IDK_Api.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-03T11:40:32.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Configuration\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Configuration\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Configuration\\MapperProfile.cs",
+              "RelativeToolTip": "BusinessLogic\\Configuration\\MapperProfile.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:44:08.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IHomeworkService.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IHomeworkService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IHomeworkService.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IHomeworkService.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IHomeworkService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:58:01.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251019163848_NewDb.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251019163848_NewDb.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251019163848_NewDb.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251019163848_NewDb.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251019163848_NewDb.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:38:48.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SongDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\SongDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\SongDbContext.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\SongDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\SongDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T09:08:07.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeWorkItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\HomeWorkItemDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\HomeWorkItemDto.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\HomeWorkItemDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\HomeWorkItemDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T09:07:18.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\BaseService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\BaseService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:15:18.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IBaseService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IBaseService.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:15:10.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IItemsInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IItemsInterface.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IItemsInterface.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IItemsInterface.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IItemsInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T08:41:25.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\Item.cs",
+              "RelativeToolTip": "DataAccess\\Data\\Entities\\Item.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:11:16.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ItemWeekDay.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\ItemWeekDay.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Entities\\ItemWeekDay.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\ItemWeekDay.cs",
+              "RelativeToolTip": "DataAccess\\Data\\Entities\\ItemWeekDay.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:03:35.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "IDK_Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "IDK_Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:00:57.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "IDK_Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "IDK_Api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:24:15.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\AccountService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\AccountService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwFQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:26:22.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeWorkItemCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\HomeWorkItemCreateDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\HomeWorkItemCreateDto.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\HomeWorkItemCreateDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\HomeWorkItemCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:33:03.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ItemWeekDayDto.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\ItemWeekDayDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\ItemWeekDayDto.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\ItemWeekDayDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\ItemWeekDayDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:44:38.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\ItemDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\ItemDto.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\ItemDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\ItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:49:18.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginModelResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\Account\\LoginModelResponse.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Account\\LoginModelResponse.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\Account\\LoginModelResponse.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\Account\\LoginModelResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:25:01.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LogoutModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\Account\\LogoutModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Account\\LogoutModel.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\Account\\LogoutModel.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\Account\\LogoutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:29:44.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Services\\JwtService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\JwtService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAtwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:56:03.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IAccountService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IAccountService.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IAccountService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:26:52.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IdentityInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Helpers\\IdentityInitializer.cs",
+              "RelativeDocumentMoniker": "IDK_Api\\Helpers\\IdentityInitializer.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Helpers\\IdentityInitializer.cs",
+              "RelativeToolTip": "IDK_Api\\Helpers\\IdentityInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:08:37.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IJwtService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IJwtService.cs",
+              "RelativeToolTip": "BusinessLogic\\Interface\\IJwtService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:56:47.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "DataAccess\\Data\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:05:48.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20251016163331_AddRef.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251016163331_AddRef.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251016163331_AddRef.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251016163331_AddRef.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251016163331_AddRef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:33:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20251016161316_RefreshTokenCr.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251016161316_RefreshTokenCr.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251016161316_RefreshTokenCr.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251016161316_RefreshTokenCr.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251016161316_RefreshTokenCr.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:13:17.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "DataAccess\\Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:18:10.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MiddlewareErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\MIddleWare\\MiddlewareErrorHandler.cs",
+              "RelativeDocumentMoniker": "IDK_Api\\MIddleWare\\MiddlewareErrorHandler.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\MIddleWare\\MiddlewareErrorHandler.cs",
+              "RelativeToolTip": "IDK_Api\\MIddleWare\\MiddlewareErrorHandler.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T11:50:10.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "WeekDay.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\WeekDay.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Entities\\WeekDay.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\WeekDay.cs",
+              "RelativeToolTip": "DataAccess\\Data\\Entities\\WeekDay.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:14:08.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\Account\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Account\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\Account\\RegisterModel.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\Account\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:29:44.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomeWorkItem.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\HomeWorkItem.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Entities\\HomeWorkItem.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Data\\Entities\\HomeWorkItem.cs",
+              "RelativeToolTip": "DataAccess\\Data\\Entities\\HomeWorkItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:10:10.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\Account\\LoginModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Account\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\Account\\LoginModel.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\Account\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:29:33.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HttpException.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DException\\HttpException.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DException\\HttpException.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DException\\HttpException.cs",
+              "RelativeToolTip": "BusinessLogic\\DException\\HttpException.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T11:52:03.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20251013124114_Ad23dgf.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251013124114_Ad23dgf.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251013124114_Ad23dgf.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251013124114_Ad23dgf.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251013124114_Ad23dgf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:41:15.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WeekDayDto.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\WeekDayDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\WeekDayDto.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\WeekDayDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\WeekDayDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:43:26.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T20:16:47.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\CreateItemDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\CreateItemDto.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\DTOs\\CreateItemDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\CreateItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T09:17:37.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20251012135821_Maskf23.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251012135821_Maskf23.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251012135821_Maskf23.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251012135821_Maskf23.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251012135821_Maskf23.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:58:21.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20251012133757_boolMig.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251012133757_boolMig.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251012133757_boolMig.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251012133757_boolMig.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251012133757_boolMig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:37:58.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20251003125007_UpdatDb.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251003125007_UpdatDb.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251003125007_UpdatDb.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251003125007_UpdatDb.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251003125007_UpdatDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:50:08.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251003125119_UpdateDay.cs",
+              "DocumentMoniker": "D:\\MYWORKITSTEP\\IDK_Api\\DataAccess\\Migrations\\20251003125119_UpdateDay.cs",
+              "ToolTip": "D:\\MYWORKITSTEP\\IDK_Api\\DataAccess\\Migrations\\20251003125119_UpdateDay.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:51:19.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20251002202357_Addpwe.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002202357_Addpwe.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251002202357_Addpwe.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002202357_Addpwe.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251002202357_Addpwe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:23:57.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20251002202305_AddBd.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002202305_AddBd.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251002202305_AddBd.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002202305_AddBd.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251002202305_AddBd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:23:05.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20251002201939_Updare.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002201939_Updare.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251002201939_Updare.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002201939_Updare.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251002201939_Updare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:19:39.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20251002201615_Update-Data.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002201615_Update-Data.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251002201615_Update-Data.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002201615_Update-Data.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251002201615_Update-Data.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:16:15.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20251002201508_GetItem.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002201508_GetItem.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251002201508_GetItem.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002201508_GetItem.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251002201508_GetItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:15:08.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20251002194728_Mtmg.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002194728_Mtmg.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251002194728_Mtmg.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251002194728_Mtmg.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20251002194728_Mtmg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:47:28.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Maksym\\AppData\\Roaming\\Microsoft\\UserSecrets\\db92f99c-e2d6-4d18-80cf-e789562c9bf8\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\db92f99c-e2d6-4d18-80cf-e789562c9bf8\\secrets.json",
+              "ToolTip": "C:\\Users\\Maksym\\AppData\\Roaming\\Microsoft\\UserSecrets\\db92f99c-e2d6-4d18-80cf-e789562c9bf8\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\db92f99c-e2d6-4d18-80cf-e789562c9bf8\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T21:39:15.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250930214026_InitDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20250930214026_InitDatabase.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250930214026_InitDatabase.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20250930214026_InitDatabase.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250930214026_InitDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:40:26.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250930215325_NextData.cs",
+              "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20250930215325_NextData.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250930215325_NextData.cs",
+              "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20250930215325_NextData.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250930215325_NextData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:53:25.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
