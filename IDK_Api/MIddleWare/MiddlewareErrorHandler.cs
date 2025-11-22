@@ -20,6 +20,9 @@ namespace IDK_Api.MIddleWare
             }
             catch (HttpException ex)
             {
+                Console.WriteLine("==== ERROR ====");
+                Console.WriteLine(ex.ToString());     
+                Console.WriteLine("===============");
                 await SendResponse(context, ex.Message, ex.StatusCode);
             }
             catch (Exception ex)
