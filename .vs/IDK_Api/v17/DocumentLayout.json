@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\idk_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\idk_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\middleware\\middlewareerrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\middleware\\middlewareerrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|c:\\users\\maksym\\desktop\\rubelhomeworkrepo\\backend\\idk_api\\idk_api\\idk_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E5EEB001-EF67-48BF-962A-DE7C9291695A}|IDK_Api\\IDK_Api.csproj|solutionrelative:idk_api\\idk_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maksym\\AppData\\Roaming\\Microsoft\\UserSecrets\\db92f99c-e2d6-4d18-80cf-e789562c9bf8\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -247,7 +247,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -263,15 +263,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Program.cs",
               "RelativeDocumentMoniker": "IDK_Api\\Program.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Program.cs",
               "RelativeToolTip": "IDK_Api\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAIBJwDUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:25:06.543Z"
+              "WhenOpened": "2025-09-30T21:25:06.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -323,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MiddlewareErrorHandler.cs",
               "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\MIddleWare\\MiddlewareErrorHandler.cs",
               "RelativeDocumentMoniker": "IDK_Api\\MIddleWare\\MiddlewareErrorHandler.cs",
@@ -331,11 +332,12 @@
               "RelativeToolTip": "IDK_Api\\MIddleWare\\MiddlewareErrorHandler.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T11:50:10.313Z"
+              "WhenOpened": "2025-10-11T11:50:10.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IDK_Api.http",
               "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\IDK_Api.http",
               "RelativeDocumentMoniker": "IDK_Api\\IDK_Api.http",

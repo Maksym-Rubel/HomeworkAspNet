@@ -141,8 +141,17 @@ using (var scope = app.Services.CreateScope())
 // {
     app.UseSwagger();
     app.UseSwaggerUI();
+<<<<<<< HEAD
 // }
 app.UseMiddleware<MiddlewareErrorHandler>();
+=======
+}
+
+if (app.Environment.IsProduction())
+{
+    app.UseMiddleware<MiddlewareErrorHandler>();
+}
+>>>>>>> 262e1f4 (first commit)
 app.UseHttpsRedirection();
 app.UseCors("AllowFrontend");
 app.UseAuthentication();
