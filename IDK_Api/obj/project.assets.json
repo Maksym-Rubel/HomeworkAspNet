@@ -1548,7 +1548,8 @@
           "AutoMapper": "15.0.1",
           "DataAccess": "1.0.0",
           "FluentValidation": "12.0.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
+          "System.IdentityModel.Tokens.Jwt": "7.1.2"
         },
         "compile": {
           "bin/placeholder/BusinessLogic.dll": {}
@@ -4611,7 +4612,8 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.9",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.22.1",
-      "Swashbuckle.AspNetCore >= 6.6.2"
+      "Swashbuckle.AspNetCore >= 6.6.2",
+      "System.IdentityModel.Tokens.Jwt >= 7.1.2"
     ]
   },
   "packageFolders": {
@@ -4700,6 +4702,10 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.6.2, )"
+          },
+          "System.IdentityModel.Tokens.Jwt": {
+            "target": "Package",
+            "version": "[7.1.2, )"
           }
         },
         "imports": [
