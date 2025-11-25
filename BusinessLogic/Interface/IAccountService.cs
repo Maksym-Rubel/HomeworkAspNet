@@ -1,4 +1,5 @@
 ﻿using BusinessLogic.DTOs.Account;
+using DataAccess.Data.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,8 @@ namespace BusinessLogic.Interface
 {
     public interface IAccountService
     {
+      
+
         Task Register(RegisterModel model);
         Task<LoginModelResponse> Login(LoginModel model, string? IpAddress );
         Task Logout(LogoutModel model);

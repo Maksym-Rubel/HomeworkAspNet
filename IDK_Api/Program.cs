@@ -50,11 +50,10 @@ string connStr = builder.Configuration.GetConnectionString("Remotedb")
 builder.Services.AddDbContext<SongDbContext>(options => options.UseSqlServer(connStr));
 
 
-builder.Services.AddIdentity<User,IdentityRole>(options =>
+builder.Services.AddIdentity<User, IdentityRole>(options =>
     options.SignIn.RequireConfirmedAccount = false)
-    .AddDefaultTokenProviders()
-    .AddEntityFrameworkStores<SongDbContext>();
-    
+    .AddEntityFrameworkStores<SongDbContext>()
+    .AddDefaultTokenProviders();
 
 
 builder.Services.AddEndpointsApiExplorer();

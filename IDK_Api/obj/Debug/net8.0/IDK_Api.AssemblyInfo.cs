@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IDK_Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba7b2dca44f3488d56fc9b6747402e09880f7143")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b0221020495122dae84b10bc62c35ad14a74a7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("IDK_Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IDK_Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

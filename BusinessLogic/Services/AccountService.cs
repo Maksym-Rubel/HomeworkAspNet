@@ -6,13 +6,8 @@ using DataAccess.Data;
 using DataAccess.Data.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.VisualBasic;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace BusinessLogic.Services
 {
@@ -23,6 +18,7 @@ namespace BusinessLogic.Services
         public IJwtService jwtService { get; }
         public UserManager<User> userManager { get; }
         public SignInManager<User> signInManager { get; }
+        //public SignInManager<User> signInManager { get; }
         public IMapper mapper { get; }
 
         //private readonly SongDbContext ctx;
@@ -41,7 +37,7 @@ namespace BusinessLogic.Services
         public async Task<LoginModelResponse> Refresh(string refreshToken, string? IpAddress)
         {
             var user = await userManager.Users.SingleOrDefaultAsync(u => u.RefreshTokens.Any(m=> m.Token == refreshToken));
-
+       
             if (user == null)
             {
                 throw new HttpException("Invalid User",HttpStatusCode.Unauthorized);
