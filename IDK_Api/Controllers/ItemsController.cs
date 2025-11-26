@@ -1,15 +1,11 @@
-﻿using AutoMapper;
-using BusinessLogic;
-using BusinessLogic.DTOs;
-using BusinessLogic.Interface;
-using BusinessLogic.Services;
-using DataAccess.Data;
-using DataAccess.Data.Entities;
-using IDK_Api.Helpers;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
+﻿using BusinessLogic.DTOs;
 using Microsoft.AspNetCore.Mvc;
+using BusinessLogic.Interface;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using IDK_Api.Helpers;
+
+
 
 namespace IDK_Api.Controllers
 {
