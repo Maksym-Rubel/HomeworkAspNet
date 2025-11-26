@@ -1,0 +1,15 @@
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\bin\Release\net8.0\DataAccess.deps.json
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\bin\Release\net8.0\DataAccess.runtimeconfig.json
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\bin\Release\net8.0\DataAccess.dll
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\bin\Release\net8.0\DataAccess.pdb
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\DataAccess.sourcelink.json
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\DataAccess.dll
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\refint\DataAccess.dll
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\DataAccess.pdb
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\DataAccess.genruntimeconfig.cache
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\DataAccess\obj\Release\net8.0\ref\DataAccess.dll

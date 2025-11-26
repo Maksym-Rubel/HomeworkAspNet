@@ -23,6 +23,8 @@
 	<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
 	<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
 	<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.1.2" />
+	<PackageReference Include="Microsoft.IdentityModel.Protocols" Version="8.0.1" />
+	<PackageReference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect" Version="8.0.1" />
   </ItemGroup>
 
   <ItemGroup>

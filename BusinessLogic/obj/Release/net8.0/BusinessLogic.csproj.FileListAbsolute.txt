@@ -1,0 +1,16 @@
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\bin\Release\net8.0\BusinessLogic.deps.json
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\bin\Release\net8.0\BusinessLogic.dll
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\bin\Release\net8.0\BusinessLogic.pdb
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\bin\Release\net8.0\DataAccess.dll
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\bin\Release\net8.0\DataAccess.pdb
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\BusinessLogic.sourcelink.json
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\Business.CF5D6E35.Up2Date
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\BusinessLogic.dll
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\refint\BusinessLogic.dll
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\BusinessLogic.pdb
+C:\Users\Maksym\Desktop\RubelhomeworkRepo\Backend\IDK_Api\BusinessLogic\obj\Release\net8.0\ref\BusinessLogic.dll
