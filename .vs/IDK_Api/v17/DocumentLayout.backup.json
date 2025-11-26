@@ -256,12 +256,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BusinessLogic",
+              "Title": "BusinessLogic.csproj",
               "DocumentMoniker": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\BusinessLogic.csproj",
               "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\BusinessLogic.csproj",
               "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-25T12:27:19.881Z",
               "EditorCaption": ""
@@ -300,7 +300,7 @@
               "RelativeDocumentMoniker": "BusinessLogic\\Interface\\IAccountService.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\BusinessLogic\\Interface\\IAccountService.cs",
               "RelativeToolTip": "BusinessLogic\\Interface\\IAccountService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T12:26:52.524Z",
               "EditorCaption": ""
@@ -313,7 +313,7 @@
               "RelativeDocumentMoniker": "IDK_Api\\Program.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\IDK_Api\\Program.cs",
               "RelativeToolTip": "IDK_Api\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwDYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T21:25:06.543Z",
               "EditorCaption": ""
@@ -768,7 +768,7 @@
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20251016161316_RefreshTokenCr.cs",
               "ToolTip": "C:\\Users\\Maksym\\Desktop\\RubelhomeworkRepo\\Backend\\IDK_Api\\DataAccess\\Migrations\\20251016161316_RefreshTokenCr.cs",
               "RelativeToolTip": "DataAccess\\Migrations\\20251016161316_RefreshTokenCr.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAABlwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T16:13:17.07Z",
               "EditorCaption": ""

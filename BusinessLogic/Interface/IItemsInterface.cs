@@ -11,7 +11,7 @@ namespace BusinessLogic.Interface
     {
         Task<ItemDto>? GetOneItem(int id);
         //IList<ItemDto>? GetDayItems(DateTime dateTime, int WeekDay);
-        Task<IList<ItemDto>>? GetAllItem(int? WeekDay = null);
+        Task<IList<ItemDto>> GetAllItem(int? WeekDay = null);
         Task<CreateItemDto>? CreateItem(CreateItemDto model);
     }
 }

@@ -40,8 +40,13 @@ namespace BusinessLogic.Services
                     {
                         if (ctx.Items.Any(m => item.ItemId == m.Id))
                         {
-                            
-                             modelret.Add(await ctx.Items.FirstOrDefaultAsync(m => item.ItemId == m.Id));
+
+                            var enit = await ctx.Items.FirstOrDefaultAsync(m => item.ItemId == m.Id);
+                            if(enit != null)
+                            {
+                                modelret.Add(enit);
+
+                            }
                         }
                     }
                     return mapper.Map<IList<ItemDto>>(modelret);

@@ -39,7 +39,7 @@ namespace IDK_Api.Controllers
       
         [HttpGet("GetAllItem")]
 
-        public async Task<ActionResult<IEnumerable<ItemDto>>> GetAllItem()
+        public async Task<IActionResult> GetAllItem()
         {
             return Ok(await itemService.GetAllItem());
         }
